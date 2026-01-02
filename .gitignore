@@ -1,0 +1,19 @@
+# Віртуальне середовище (Python Virtual Environment)
+venv/
+ENV/
+env/
+
+# Кеш Python (тимчасові файли компіляції)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Дані та логи (щоб не засмічувати репозиторій результатами тестів)
+*.csv
+*.xlsx
+app.log
+*.log
+
+# Налаштування IDE (VS Code, PyCharm)
+.vscode/
+.idea/
