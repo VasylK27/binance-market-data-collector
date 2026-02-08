@@ -45,3 +45,7 @@ This project demonstrates:
    ```bash
    git clone https://github.com/VasylK27/binance-market-data-collector
    cd binance-market-data-collector
+
+---
+
+![CSV screenshot](assets/screenshot2.png)
